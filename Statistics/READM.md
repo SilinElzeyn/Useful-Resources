@@ -1,1 +1,1 @@
-Resources
+# Statistics Resource URLs
