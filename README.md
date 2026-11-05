@@ -9,17 +9,17 @@ A curated collection of resources, notes, codes, and research papers.
 <br/>
 
 ## Bioinformatics 🧬 
-[Explore Resources](Bioinformatics/README.md)
+[Explore Resources](bioinformatics/README.md)
 
 <br/>
 
 ## Statistics 📊 
-[Explore Resources](Statistics/README.md)
+[Explore Resources](statistics/README.md)
 
 <br/>
 
 ## Programming 💻
-[Explore Resources](Programming/README.md)
+[Explore Resources](programming/README.md)
 
 <br/>
 
