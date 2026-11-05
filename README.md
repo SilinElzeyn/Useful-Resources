@@ -9,7 +9,7 @@ A curated collection of resources, notes, codes, and research papers.
 <br/>
 
 ## Bioinformatics 🧬 
-[Explore Resources](bioinformatics/README.md)
+[Explore Resources](Bioinformatics/README.md)
 
 <br/>
 
