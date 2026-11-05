@@ -25,4 +25,8 @@ A curated collection of resources, notes, codes, and research papers.
 
 
 ## Books 📖 
-![Useful-Resources](assets/UnderstandingBioinformatics.png)
+
+<p align="center">
+  <img src="assets/UnderstandingBioinformatics.jpg" width="600" alt="My Learning Library">
+</p>
+
