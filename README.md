@@ -28,7 +28,6 @@ A curated collection of resources, notes, codes, and research papers.
 
 <p align="center">
   <img src="assets/UnderstandingBioinformatics.jpg" width="300" alt="My Learning Library">
-</p> <p align="center">
   <img src="assets/Bioinformatics.jpg" width="300" alt="My Learning Library">
 </p>
 
