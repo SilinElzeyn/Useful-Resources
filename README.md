@@ -14,7 +14,7 @@ A curated collection of resources, notes, codes, and research papers.
 <br/>
 
 ## Statistics 📊 
-[Explore Resources](statistics/README.md)
+[Explore Resources](Statistics/README.md)
 
 <br/>
 
