@@ -1,3 +1,20 @@
+[Back to portfolio](../README.md)
+
+# Softwares
+
+## Programming Languages: 
+R (RStudio) <br/>
+Python (PhCharm or VScode) <br/>
+Linux Bash (in windows, use WSL or Virtual Box) <br/>
+Git Bash <br/>
+
+## Useful tools:
+Cytoscope <br/>
+Jalview <br/>
+MEGA12 <br/>
+PyMOL <br/>
+
+
 # Bioinformatics Resource URLs
 
 ## Genome Browsers & Genomic Databases
@@ -25,6 +42,12 @@ Reactome Pathway Database https://reactome.org <br/>
 STRING Protein Networks https://string-db.org <br/>
 IntAct https://www.ebi.ac.uk/intact/home <br/>
 BioCyc https://biocyc.org <br/>
+RCSB Protein Data Bank (RCSB PDB): https://www.rcsb.org/ <br/>
+BOOLESIM for Modeling Boolean Networks: https://rumo.biologie.hu-berlin.de/boolesim/ <br/>
+Regulatory Repeat Database: https://r2db.atgc-montpellier.fr/ <br/>
+SIGNOR: https://signor.uniroma2.it/ <br/>
+Phylogeny.fr: https://www.phylogeny.fr/ <br/>
+NGPhylogeny.fr: https://ngphylogeny.fr/ <br/>
 
 
 ## Sequence Analysis & Bioinformatics Tools
@@ -58,35 +81,6 @@ PRBB https://www.prbb.org <br/>
 
 
 
-# Useful resources
 
-[Back to portfolio](../README.md)
 
-## Genomics and molecular evolution
-
-| Resource | When I use it | What I record |
-| --- | --- | --- |
-| [UCSC Genome Browser](https://genome.ucsc.edu/) | Inspect a genomic interval, transcripts, variants, or regulatory tracks | Species, assembly, coordinates, and track name |
-| [ENCODE Portal](https://www.encodeproject.org/) | Find functional genomics experiments and regulatory annotations | Experiment or file accession, biosample, and assay |
-| [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) | Find similar sequences and inspect local alignments | Database, query coverage, identity, and E-value |
-| [Ensembl](https://www.ensembl.org/) | Look up genes, transcripts, variants, and orthologues | Gene or transcript ID and Ensembl release |
-
-## Structural bioinformatics
-
-| Resource | When I use it | What I record |
-| --- | --- | --- |
-| [UniProt](https://www.uniprot.org/) | Retrieve a reference protein sequence and review annotations | Accession, isoform, and evidence for the feature |
-| [RCSB PDB](https://www.rcsb.org/) | Find coordinates, experimental validation, and sequence-to-structure mappings | Entry ID, chain, method, and relevant model coverage |
-| [AlphaFold DB](https://alphafold.ebi.ac.uk/) | Explore a predicted fold and confidence by region | UniProt accession, model version when available, pLDDT, and PAE |
-| [InterPro](https://www.ebi.ac.uk/interpro/) | Look up families and protein sequence domains, including Pfam signatures | Signature accession and residue range |
-| [CATH](https://www.cathdb.info/) | Compare structural domain boundaries and fold classifications | Domain ID, CATH code, and residue segments |
-| [Foldseek](https://search.foldseek.com/) | Find protein structures with similar regions | Query, target database, E-value, and aligned spans |
-
-## Analysis and reproducibility
-
-| Resource | When I use it | What I record |
-| --- | --- | --- |
-| [CRAN](https://cran.r-project.org/) | Find R packages and reference manuals | Package version and R version |
-| [Bioconductor](https://bioconductor.org/) | Find R workflows and packages for genomic data | Bioconductor release, package version, and data source |
-| [Software Carpentry](https://software-carpentry.org/lessons/) | Refresh shell, Git, R, or Python skills | Lesson link and the command or workflow I used |
 
