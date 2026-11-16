@@ -90,4 +90,3 @@ PRBB https://www.prbb.org <br/>
 | [Bioconductor](https://bioconductor.org/) | Find R workflows and packages for genomic data | Bioconductor release, package version, and data source |
 | [Software Carpentry](https://software-carpentry.org/lessons/) | Refresh shell, Git, R, or Python skills | Lesson link and the command or workflow I used |
 
-[Copy the resource entry template](../templates/resource-entry.md)
